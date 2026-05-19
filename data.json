@@ -1,0 +1,2086 @@
+[
+  {
+    "id": "term-4",
+    "icon": "simple simple-shenghuo",
+    "title": "生活",
+    "desc": "一站式搞定日常所需！",
+    "tabs": [
+      {
+        "id": "tab-5",
+        "name": "看新闻"
+      },
+      {
+        "id": "tab-6",
+        "name": "看视频"
+      },
+      {
+        "id": "tab-7",
+        "name": "听音乐"
+      },
+      {
+        "id": "tab-8",
+        "name": "买东西"
+      }
+    ],
+    "sites": {
+      "tab-5": [
+        {
+          "url": "https://www.cctv.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ysw.png",
+          "title": "央视网",
+          "desc": "央视总台官网，权威新闻视听平台"
+        },
+        {
+          "url": "https://www.ifeng.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/fhw.jpg",
+          "title": "凤凰网",
+          "desc": "全球华人资讯门户"
+        },
+        {
+          "url": "https://www.people.com.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/rmw.png",
+          "title": "人民网",
+          "desc": "官方权威新闻门户"
+        },
+        {
+          "url": "https://www.toutiao.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jrtt.ico",
+          "title": "今日头条",
+          "desc": "智能个性化资讯平台"
+        },
+        {
+          "url": "https://www.news.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xhs.png",
+          "title": "新华网",
+          "desc": "最具影响力的官方网络媒体"
+        },
+        {
+          "url": "https://www.huanqiu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hqw.ico",
+          "title": "环球网",
+          "desc": "央级权威国际资讯门户"
+        },
+        {
+          "url": "https://www.guancha.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/gcz.png",
+          "title": "观察者",
+          "desc": "智库型时政深度资讯平台"
+        },
+        {
+          "url": "https://36kr.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/36kr.png",
+          "title": "36氪",
+          "desc": "创投科技商业新经济媒体"
+        },
+        {
+          "url": "https://www.ithome.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/itzj.png",
+          "title": "IT 之家",
+          "desc": "数码科技快讯评测门户"
+        },
+        {
+          "url": "https://www.tmtpost.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tmt.ico",
+          "title": "钛媒体",
+          "desc": "科技财经深度洞察媒体"
+        },
+        {
+          "url": "https://zeli.app/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zeli.png",
+          "title": "Zeli",
+          "desc": "中文科技资讯聚合阅读站"
+        },
+        {
+          "url": "https://news.163.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wyxw.png",
+          "title": "网易新闻",
+          "desc": "综合资讯个性化推荐平台"
+        },
+        {
+          "url": "https://www.theblockbeats.info/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/BlockBeats.png",
+          "title": "BlockBeats",
+          "desc": "最具影响力的华语 Web3 媒体"
+        },
+        {
+          "url": "https://www.kankanews.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/kkxw.png",
+          "title": "看看新闻",
+          "desc": "权威的视频新闻平台"
+        },
+        {
+          "url": "https://www.myzaker.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zaker.ico",
+          "title": "ZAKER",
+          "desc": "聚合了新闻、杂志、报纸、公众号等各类头条资讯"
+        }
+      ],
+      "tab-6": [
+        {
+          "url": "https://tv.cctv.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ysw.png",
+          "title": "央视网",
+          "desc": "国家级权威新闻与影视直播"
+        },
+        {
+          "url": "https://v.qq.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/txsp.ico",
+          "title": "腾讯视频",
+          "desc": "腾讯旗下海量版权与自制剧平台"
+        },
+        {
+          "url": "https://www.douyin.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dy.webp",
+          "title": "抖音",
+          "desc": "全民短视频娱乐与生活分享平台"
+        },
+        {
+          "url": "https://www.bilibili.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bilibili.png",
+          "title": "哔哩哔哩",
+          "desc": "年轻人文化社区与长短视频平台"
+        },
+        {
+          "url": "https://www.iqiyi.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/aqy.png",
+          "title": "爱奇艺",
+          "desc": "百度旗下头部综合视频流媒体平台"
+        },
+        {
+          "url": "https://www.youku.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yk.png",
+          "title": "优酷",
+          "desc": "阿里旗下老牌综合视频流媒体平台"
+        },
+        {
+          "url": "https://www.douyu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dy.png",
+          "title": "斗鱼",
+          "desc": "游戏直播与电竞内容主流平台"
+        },
+        {
+          "url": "https://www.mgtv.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mgtv.jpg",
+          "title": "芒果 TV",
+          "desc": "湖南广电旗下综艺见长视频平台"
+        },
+        {
+          "url": "https://www.kuaishou.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ks.webp",
+          "title": "快手",
+          "desc": "接地气短视频社区与直播电商平台"
+        },
+        {
+          "url": "https://tv.sohu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/shsp.ico",
+          "title": "搜狐视频",
+          "desc": "老牌综合影视与资讯视频站"
+        },
+        {
+          "url": "https://www.huya.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hy.png",
+          "title": "虎牙直播",
+          "desc": "专业游戏电竞赛事直播平台"
+        },
+        {
+          "url": "https://www.yy.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yy.png",
+          "title": "YY 直播",
+          "desc": "老牌泛娱乐才艺直播互动平台"
+        },
+        {
+          "url": "https://www.longzhu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/lzzb.png",
+          "title": "龙珠直播",
+          "desc": "综合体育赛事直播与解说平台"
+        },
+        {
+          "url": "https://www.qie.tv/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qety.png",
+          "title": "企鹅直播",
+          "desc": "专业体育赛事高清直播互动平台"
+        },
+        {
+          "url": "https://www.zhibo8.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zbb.png",
+          "title": "直播8",
+          "desc": "全网体育赛事直播赛程聚合导航"
+        }
+      ],
+      "tab-7": [
+        {
+          "url": "https://y.qq.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qqyy.png",
+          "title": "QQ音乐",
+          "desc": "腾讯旗下的一款音乐服务"
+        },
+        {
+          "url": "https://music.163.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wyy.png",
+          "title": "网易云音乐",
+          "desc": "网易旗下的高品质音乐播放器"
+        },
+        {
+          "url": "https://www.kugou.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/kgyy.png",
+          "title": "酷狗音乐",
+          "desc": "中国使用人数较多的音乐播放器之一"
+        },
+        {
+          "url": "https://www.kuwo.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/kw.png",
+          "title": "酷我音乐",
+          "desc": "无损音乐正版在线试听网站"
+        },
+        {
+          "url": "https://music.migu.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mgyy.png",
+          "title": "咪咕音乐",
+          "desc": "中国移动官方音乐门户"
+        },
+        {
+          "url": "https://www.lizhi.fm/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/lzfm.png",
+          "title": "荔枝FM",
+          "desc": "一款因为热爱而生的音乐产品"
+        },
+        {
+          "url": "https://www.qtfm.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qtfm.png",
+          "title": "蜻蜓FM",
+          "desc": "国内首家FM网络音频电台应用"
+        },
+        {
+          "url": "https://tide.fm/zh_CN/sounds/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/cx.png",
+          "title": "潮汐",
+          "desc": "睡眠, 专注, 放松, 冥想"
+        },
+        {
+          "url": "https://www.ximalaya.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xmly.png",
+          "title": "喜马拉雅FM",
+          "desc": "国内音频分享平台"
+        },
+        {
+          "url": "https://music.taihe.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qqyy-1.png",
+          "title": "千千音乐",
+          "desc": "华语正版音乐曲库播放平台"
+        },
+        {
+          "url": "https://www.missevan.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mefm.png",
+          "title": "猫耳FM",
+          "desc": "二次元广播剧有声音频社区"
+        },
+        {
+          "url": "https://www.qishui.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qsyy.png",
+          "title": "汽水音乐",
+          "desc": "抖音旗下潮流简约音乐播放平台"
+        },
+        {
+          "url": "https://music.douban.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/db-1.png",
+          "title": "豆瓣音乐",
+          "desc": "文艺乐评榜单与音乐交流社区"
+        },
+        {
+          "url": "https://music.le.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ls.ico",
+          "title": "乐视音乐",
+          "desc": "影视原声MV与音乐现场平台"
+        },
+        {
+          "url": "https://5sing.kugou.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/5sing.png",
+          "title": "5Sing",
+          "desc": "酷狗旗下，原创 / 翻唱官方平台"
+        }
+      ],
+      "tab-8": [
+        {
+          "url": "https://www.taobao.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tb.png",
+          "title": "淘宝",
+          "desc": "阿里巴巴集团旗下的网络购物平台"
+        },
+        {
+          "url": "https://www.jd.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jd.png",
+          "title": "京东",
+          "desc": "专业的综合网上购物商城"
+        },
+        {
+          "url": "https://www.tmall.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tm.png",
+          "title": "天猫",
+          "desc": "理想生活上天猫"
+        },
+        {
+          "url": "https://www.1688.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/albb.png",
+          "title": "阿里巴巴",
+          "desc": "全球领先的采购批发平台、批发网"
+        },
+        {
+          "url": "https://www.vip.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wph.png",
+          "title": "唯品会",
+          "desc": "全球精选，正品特卖"
+        },
+        {
+          "url": "https://www.suning.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/sn.png",
+          "title": "苏宁易购",
+          "desc": "苏宁网上购物商城"
+        },
+        {
+          "url": "https://www.dangdang.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ddw.png",
+          "title": "当当网",
+          "desc": "网上购书中心"
+        },
+        {
+          "url": "https://www.dianping.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dzdp.webp",
+          "title": "大众点评",
+          "desc": "美团旗下本地生活消费点评与优惠平台"
+        },
+        {
+          "url": "https://www.tmall.hk/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tmgj.webp",
+          "title": "天猫国际",
+          "desc": "天猫国际，海外直供"
+        },
+        {
+          "url": "https://dewu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dw.webp",
+          "title": "得物（毒）",
+          "desc": "潮流单品聚集地"
+        },
+        {
+          "url": "https://www.taopiaopiao.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tpp.webp",
+          "title": "淘票票",
+          "desc": "阿里影业旗下电影与演出票务平台"
+        },
+        {
+          "url": "https://www.yiwugo.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ywg.png",
+          "title": "义务购",
+          "desc": "全球小商品批发网"
+        },
+        {
+          "url": "https://www.goofish.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xy.webp",
+          "title": "闲鱼",
+          "desc": "阿里巴巴旗下二手闲置交易平台"
+        },
+        {
+          "url": "https://www.smzdm.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/smzdm.png",
+          "title": "什么值得买",
+          "desc": "认真生活，好好花钱"
+        },
+        {
+          "url": "https://manmanbuy.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mmm.png",
+          "title": "慢慢买",
+          "desc": "购物导购、比价网站"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-9",
+    "icon": "simple simple-ai",
+    "title": "Ai助手",
+    "desc": "各路 Ai 神器集结！",
+    "tabs": [
+      {
+        "id": "tab-10",
+        "name": "Ai智能助手"
+      },
+      {
+        "id": "tab-13",
+        "name": "Ai音视频"
+      },
+      {
+        "id": "tab-12",
+        "name": "Ai图像"
+      },
+      {
+        "id": "tab-39",
+        "name": "Ai工具"
+      }
+    ],
+    "sites": {
+      "tab-10": [
+        {
+          "url": "https://chat.deepseek.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ds.png",
+          "title": "Deepseek",
+          "desc": "深度求索 AI 对话网页端"
+        },
+        {
+          "url": "https://www.doubao.com/chat/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/db.png",
+          "title": "豆包",
+          "desc": "字节智能全能 AI"
+        },
+        {
+          "url": "https://www.kimi.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/km.ico",
+          "title": "Kimi",
+          "desc": "超长文档精读 AI"
+        },
+        {
+          "url": "https://yiyan.baidu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wxyy.png",
+          "title": "文心一言",
+          "desc": "中文深耕知识全能 Ai"
+        },
+        {
+          "url": "https://yuanbao.tencent.com/chat",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/txyb.png",
+          "title": "腾讯元宝",
+          "desc": "腾讯生态一站式智能 AI"
+        },
+        {
+          "url": "https://www.qianwen.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tyqw.ico",
+          "title": "通义千问",
+          "desc": "阿里全能高效 AI 助手"
+        },
+        {
+          "url": "https://chat.qwen.ai/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qw.ico",
+          "title": "QwenChat",
+          "desc": "阿里全能通识大模型"
+        },
+        {
+          "url": "https://longcat.chat/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/longcat.png",
+          "title": "LongCat AI",
+          "desc": "美团自研大模型 Ai 对话平台"
+        },
+        {
+          "url": "https://chatgpt.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/chatgpt.ico",
+          "title": "ChatGPT",
+          "desc": "🚀全球标杆级通用大模型"
+        },
+        {
+          "url": "https://grok.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/grok.png",
+          "title": "Grok",
+          "desc": "🚀直击全球热点！热点资讯一手掌握"
+        }
+      ],
+      "tab-13": [
+        {
+          "url": "https://www.liblib.tv/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/libtv.webp",
+          "title": "LibTV",
+          "desc": "Ai影片、视频创作"
+        },
+        {
+          "url": "https://www.liblib.art/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/liblib.webp",
+          "title": "LiblibAi",
+          "desc": "Ai视频、图片创作"
+        },
+        {
+          "url": "https://aibrm.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/brm.webp",
+          "title": "白日梦",
+          "desc": "Ai视频、动漫创作，支持Nano Banana"
+        },
+        {
+          "url": "https://jimeng.jianying.com/ai-tool/home",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jm.png",
+          "title": "即梦Ai",
+          "desc": "Ai 视频、图片创作，抖音出品"
+        },
+        {
+          "url": "https://finevoice.ai/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/FineVoice.webp",
+          "title": "FineVoice",
+          "desc": "Ai音频创作"
+        },
+        {
+          "url": "https://bibigpt.co/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/BibiGPT.webp",
+          "title": "BibiGPT",
+          "desc": "Ai总结B站视频"
+        },
+        {
+          "url": "https://ttsmaker.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ttsmake.jpg",
+          "title": "TTSMaker",
+          "desc": "Ai在线配音工具"
+        },
+        {
+          "url": "https://mubert.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mubert.png",
+          "title": "Mubert",
+          "desc": "Ai生成背景音乐"
+        },
+        {
+          "url": "https://www.uberduck.ai/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/uberduck.png",
+          "title": "Uberduck",
+          "desc": "Ai语音生成"
+        },
+        {
+          "url": "https://www.yinshu.me/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yinshu.webp",
+          "title": "音述",
+          "desc": "AI写歌"
+        }
+      ],
+      "tab-12": [
+        {
+          "url": "https://www.liblib.art/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/liblib.webp",
+          "title": "LiblibAi",
+          "desc": "Ai视频、图片创作"
+        },
+        {
+          "url": "https://jimeng.jianying.com/ai-tool/home",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jm.png",
+          "title": "即梦Ai",
+          "desc": "Ai 视频、图片创作，抖音出品"
+        },
+        {
+          "url": "https://www.xingliu.art/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xingliu.webp",
+          "title": "星流AI",
+          "desc": "Ai绘画，4K商业级画质直出"
+        },
+        {
+          "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/arc.png",
+          "title": "Arc Lab",
+          "desc": "Ai人像抠图、增强，腾讯出品"
+        },
+        {
+          "url": "https://photokit.com/editor/?lang=zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/photokit.png",
+          "title": "PhotoKit",
+          "desc": "Ai抠图、修图"
+        }
+      ],
+      "tab-39": [
+        {
+          "url": "https://ai.chanmama.com/chat?inviteCode=CIDWLV23XVIQ",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/cmm.webp",
+          "title": "蝉妈妈",
+          "desc": "短视频内容运营、直播电商数据分析平台"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-21",
+    "icon": "simple simple-bangong",
+    "title": "办公",
+    "desc": "牛马工作效率拉满！",
+    "tabs": [
+      {
+        "id": "tab-22",
+        "name": "文档助手"
+      },
+      {
+        "id": "tab-24",
+        "name": "音频助手"
+      },
+      {
+        "id": "tab-23",
+        "name": "图片助手"
+      },
+      {
+        "id": "tab-58",
+        "name": "扫描识别"
+      },
+      {
+        "id": "tab-32",
+        "name": "文件传输"
+      },
+      {
+        "id": "tab-57",
+        "name": "格式转换"
+      },
+      {
+        "id": "tab-56",
+        "name": "工具箱"
+      }
+    ],
+    "sites": {
+      "tab-22": [
+        {
+          "url": "https://www.ilovepdf.com/zh-cn",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ilovepdf.webp",
+          "title": "iLovePDF",
+          "desc": "PDF工具集，压缩、拆分、合并、转换等"
+        },
+        {
+          "url": "https://smallpdf.com/cn",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Smallpdf.webp",
+          "title": "Smallpdf",
+          "desc": "PDF工具集，压缩、转换、合并、编辑等"
+        },
+        {
+          "url": "https://tools.pdf24.org/zh/all-tools",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/PDF24.png",
+          "title": "PDF24",
+          "desc": "PDF工具集，多种类"
+        },
+        {
+          "url": "https://pdfcandy.com/cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/pdfcandy.ico",
+          "title": "PDF Candy",
+          "desc": "PDF工具集，90+个，编辑、转换、合并、压缩、签名等"
+        },
+        {
+          "url": "https://xpdf.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/cjpdf.ico",
+          "title": "超级PDF",
+          "desc": "PDF工具集，转换、拼接、水印等"
+        },
+        {
+          "url": "https://tinywow.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tinywow.webp",
+          "title": "TinyWow",
+          "desc": "PFF、图片、文字、视频工具箱，英文"
+        },
+        {
+          "url": "https://www.cleverpdf.com/cn",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/CleverPDF.webp",
+          "title": "CleverPDF",
+          "desc": "PDF工具集，40+个，转换、加解密等"
+        },
+        {
+          "url": "https://www.hipdf.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hipdf.ico",
+          "title": "HiPDF",
+          "desc": "PDF工具集，万兴出品，转换、合并、压缩和拆分"
+        },
+        {
+          "url": "https://nbpdf.com/zh-CN/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/pdfgjx.jpg",
+          "title": "PDF工具箱",
+          "desc": "PDF工具集，合并、拆分、转换等"
+        },
+        {
+          "url": "https://www.pdfpai.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/pdfp.ico",
+          "title": "PDF派",
+          "desc": "PDF工具集，压缩、拆分、合并、转换等"
+        }
+      ],
+      "tab-24": [
+        {
+          "url": "https://www.datatool.vip/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/datatool.webp",
+          "title": "DataTool",
+          "desc": "视频下载，支持数十个主流平台"
+        },
+        {
+          "url": "https://framegrab.cc/zh/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/framegrab.webp",
+          "title": "FrameGrab",
+          "desc": "视频封面图生成"
+        },
+        {
+          "url": "https://easyvoice.ioplus.tech/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/easyvoice.png",
+          "title": "EasyVoice",
+          "desc": "文字转语音，超长小说一键转换"
+        },
+        {
+          "url": "https://ttsmaker.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mkpy.webp",
+          "title": "马克配音",
+          "desc": "文本转语音"
+        },
+        {
+          "url": "https://audio-convert.com/cn",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Audio-Convert.webp",
+          "title": "Audio Convert",
+          "desc": "音频格式转换，支持十余种格式"
+        },
+        {
+          "url": "https://tinywow.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tinywow.webp",
+          "title": "TinyWow",
+          "desc": "PFF、图片、文字、视频工具箱，英文"
+        }
+      ],
+      "tab-23": [
+        {
+          "url": "https://tugaigai.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tugaigai.webp",
+          "title": "图改改",
+          "desc": "修改图片文字"
+        },
+        {
+          "url": "https://www.tinyeraser.com/zh/t/remove-bg",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tinyeraser.ico",
+          "title": "TinyEraser",
+          "desc": "抠图，原图下载"
+        },
+        {
+          "url": "https://www.gaoding.com/koutu",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/gaoding.ico",
+          "title": "稿定",
+          "desc": "抠图，很细，需登录"
+        },
+        {
+          "url": "https://zh.bgsub.com/webapp/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bgsub.ico",
+          "title": "BgSub",
+          "desc": "抠图，支持在线链接"
+        },
+        {
+          "url": "https://tinify.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/TinyPNG.webp",
+          "title": "TinyPNG",
+          "desc": "WebP、PNG、JPEG压缩"
+        },
+        {
+          "url": "https://docsmall.com/gif-compress",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Docsmall.png",
+          "title": "Docsmall",
+          "desc": "GIF压缩"
+        },
+        {
+          "url": "https://www.remove.bg/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Removebg.webp",
+          "title": "Removebg",
+          "desc": "去除图片背景"
+        },
+        {
+          "url": "https://bigjpg.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bigjpg.webp",
+          "title": "Bigjpg",
+          "desc": "图片无损放大，智能"
+        },
+        {
+          "url": "https://photokit.com/editor/?lang=zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/photokit.png",
+          "title": "PhotoKit",
+          "desc": "Ai抠图、修图"
+        },
+        {
+          "url": "https://tinywow.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tinywow.webp",
+          "title": "TinyWow",
+          "desc": "PFF、图片、文字、视频工具箱，英文"
+        }
+      ],
+      "tab-58": [
+        {
+          "url": "https://lookscanned.io/scan",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/scan.webp",
+          "title": "Look Scanned",
+          "desc": "文档、文件扫描"
+        },
+        {
+          "url": "https://onlinescanner.app/zh-Hans/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/onlinescanner.ico",
+          "title": "OnlineScanner",
+          "desc": "文档、照片扫描，可编辑"
+        },
+        {
+          "url": "https://pearocr.com/#/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/pearocr.ico",
+          "title": "PearOCR",
+          "desc": "图片转文字"
+        },
+        {
+          "url": "https://ocr.plantree.me/ocr",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/webocr.png",
+          "title": "We OCR",
+          "desc": "图片转文字"
+        },
+        {
+          "url": "https://web.baimiaoapp.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bm.ico",
+          "title": "白描",
+          "desc": "图片转文字"
+        },
+        {
+          "url": "https://catocr.com/#/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/catocr.png",
+          "title": "CatOCR",
+          "desc": "图片转文字，可批量"
+        }
+      ],
+      "tab-32": [
+        {
+          "url": "https://www.wenshushu.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wenshushu.ico",
+          "title": "文叔叔",
+          "desc": "临时网盘，最大5G"
+        },
+        {
+          "url": "https://www.tmp.link/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tmp.ico",
+          "title": "钛盘",
+          "desc": "临时网盘，最大50G"
+        },
+        {
+          "url": "https://www.ppzhilian.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ppzhilian.ico",
+          "title": "PP直连",
+          "desc": "直连互传，支持一对多、多对一"
+        },
+        {
+          "url": "https://www.sharedrop.io/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ShareDrop.png",
+          "title": "ShareDrop",
+          "desc": "直连互传，支持一对多"
+        },
+        {
+          "url": "https://www.airportal.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/airportal.png",
+          "title": "AirPortal",
+          "desc": "临时网盘，最大2G"
+        },
+        {
+          "url": "https://ac-data.info/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ac-data.ico",
+          "title": "AC Data",
+          "desc": "临时网盘，最大250G"
+        },
+        {
+          "url": "https://easychuan.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/easychuan.png",
+          "title": "轻松传",
+          "desc": "直连互传，支持一对多"
+        },
+        {
+          "url": "https://landrop.app/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/landrop.webp",
+          "title": "LANDrop",
+          "desc": "跨平台局域网文件传输工具"
+        },
+        {
+          "url": "https://quwenjian.cc/#/send",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/quwenjian.webp",
+          "title": "取文件",
+          "desc": "开箱即用的跨平台文件快传系统"
+        },
+        {
+          "url": "https://upfile.live/zh-cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jsc.webp",
+          "title": "即时传",
+          "desc": "在线文件传送和分享工具"
+        }
+      ],
+      "tab-57": [
+        {
+          "url": "https://www.alltoall.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/alltoall.jpg",
+          "title": "All To All",
+          "desc": "音视频、图片、文档、表格等"
+        },
+        {
+          "url": "https://cn.free-converter.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Free-Converter.ico",
+          "title": "Free Converter",
+          "desc": "音视频、图片、文档、表格等"
+        },
+        {
+          "url": "https://cdkm.com/cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/cdkm.ico",
+          "title": "CDKM",
+          "desc": "音视频、图片、文档、表格等"
+        },
+        {
+          "url": "https://convertio.co/zh/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Convertio.png",
+          "title": "Convertio",
+          "desc": "音视频、图片、文档、表格等"
+        },
+        {
+          "url": "https://123apps.com/cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/123apps.png",
+          "title": "123APPS",
+          "desc": "音视频、图片、文档、表格等"
+        },
+        {
+          "url": "https://cn.office-converter.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Office-Converter.png",
+          "title": "Office Converter",
+          "desc": "音视频、图片、文档、表格等"
+        },
+        {
+          "url": "https://vert.sh/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/httpsvert.png",
+          "title": "VERT",
+          "desc": "图片、音频、文档、视频"
+        }
+      ],
+      "tab-56": [
+        {
+          "url": "https://tools.miku.ac/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/MIKU.png",
+          "title": "MikiTools",
+          "desc": "含Ai工具，文档、媒体、开发、设计工具"
+        },
+        {
+          "url": "https://tool.browser.qq.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/BXM.ico",
+          "title": "帮小忙",
+          "desc": "腾讯旗下综合性工具箱，含付费"
+        },
+        {
+          "url": "https://www.67tool.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/JSGJ.ico",
+          "title": "即时工具",
+          "desc": "多种类综合性工具箱，含付费"
+        },
+        {
+          "url": "https://remeins.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/JLGJ.ico",
+          "title": "记灵工具",
+          "desc": "多种类综合性工具箱，全免费"
+        },
+        {
+          "url": "https://www.toolfk.com/zh-cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/toolfk.png",
+          "title": "TOOLFK",
+          "desc": "多种类综合性工具箱，英文"
+        },
+        {
+          "url": "https://www.dute.org/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dtgjx.ico",
+          "title": "独特工具箱",
+          "desc": "全能在线工具箱"
+        },
+        {
+          "url": "https://www.toolnb.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/azlgj.webp",
+          "title": "爱资料工具",
+          "desc": "站长开发工具箱"
+        },
+        {
+          "url": "https://www.gjw123.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/gjw123.ico",
+          "title": "工具123",
+          "desc": "综合实用工具库"
+        },
+        {
+          "url": "https://uutool.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/uugjx.webp",
+          "title": "UU工具箱",
+          "desc": "在线效率工具箱"
+        },
+        {
+          "url": "https://www.iamwawa.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wwgj.webp",
+          "title": "蛙蛙工具",
+          "desc": "程序员综合工具箱"
+        },
+        {
+          "url": "https://tinywow.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tinywow.webp",
+          "title": "TinyWow",
+          "desc": "PFF、图片、文字、视频工具箱，英文"
+        },
+        {
+          "url": "https://essays4u.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/essays4u.png",
+          "title": "WebUtils",
+          "desc": "多种类综合工具箱，包含669+个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-25",
+    "icon": "simple simple-jiaoyu",
+    "title": "涨知识",
+    "desc": "轻松实现自我提升！",
+    "tabs": [
+      {
+        "id": "tab-25",
+        "name": "全部"
+      }
+    ],
+    "sites": {
+      "tab-25": [
+        {
+          "url": "https://www.icourse163.org/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mooc.png",
+          "title": "MOOC",
+          "desc": "国内顶尖高校慕课平台"
+        },
+        {
+          "url": "https://open.163.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wygkk.png",
+          "title": "网易公开课",
+          "desc": "全球名校免费通识课程库"
+        },
+        {
+          "url": "https://le.ouchn.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zsjypt.png",
+          "title": "终身教育平台",
+          "desc": "全民普惠终身学习平台"
+        },
+        {
+          "url": "https://www.51zxw.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wyzxw.png",
+          "title": "我要自学网",
+          "desc": "零基础实用技能自学平台"
+        },
+        {
+          "url": "https://next.xuetangx.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xtzx.ico",
+          "title": "学堂在线",
+          "desc": "清华主导国内一流慕课平台"
+        },
+        {
+          "url": "https://res.wokanxing.info/jpgramma/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/favicon.ico",
+          "title": "日语语法指南",
+          "desc": "经典日语语法教程"
+        },
+        {
+          "url": "https://www.duolingo.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dlg.png",
+          "title": "多邻国",
+          "desc": "游戏化免费外语学习平台"
+        },
+        {
+          "url": "https://www.runoob.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/runoob.png",
+          "title": "菜鸟教程",
+          "desc": "零基础编程技术自学宝库"
+        },
+        {
+          "url": "https://www.memrise.com/zh-hans/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/memrise.png",
+          "title": "忆术家",
+          "desc": "游戏化语言学习平台"
+        },
+        {
+          "url": "https://www.hjenglish.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hjyy.png",
+          "title": "沪江英语",
+          "desc": "老牌综合英语学习门户"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-19",
+    "icon": "simple simple-yingshi",
+    "title": "影视",
+    "desc": "找片追剧不用到处瞎逛！",
+    "tabs": [
+      {
+        "id": "tab-20",
+        "name": "在线看"
+      },
+      {
+        "id": "tab-33",
+        "name": "下载"
+      },
+      {
+        "id": "tab-38",
+        "name": "导航"
+      }
+    ],
+    "sites": {
+      "tab-20": [
+        {
+          "url": "https://gaze.host/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ZSYS.webp",
+          "title": "注视影视",
+          "desc": "海外影视剧、国内高口碑影视剧资源为主的在线影视网站"
+        },
+        {
+          "url": "https://www.xlys02.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/XLYS.webp",
+          "title": "修罗影视",
+          "desc": "原哔嘀影视，内容丰富的综合型老牌优质影视名站"
+        },
+        {
+          "url": "https://sszzyy.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/XGYY.webp",
+          "title": "西瓜影院",
+          "desc": "可免费在线观看全网高清影视剧的综合型网站"
+        },
+        {
+          "url": "https://juok.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/JOK.webp",
+          "title": "剧OK",
+          "desc": "可观看全网影视剧的在线追剧网站"
+        },
+        {
+          "url": "https://libvio.run/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/LIBVIO.webp",
+          "title": "LIBVIO",
+          "desc": "以海外影视资源为主的老牌网站"
+        },
+        {
+          "url": "https://www.zxzjys.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ZXZJ.webp",
+          "title": "在线之家",
+          "desc": "海外资源为主的老牌知名影视网站"
+        },
+        {
+          "url": "https://www.cz01.org/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/CZZY.webp",
+          "title": "厂长资源",
+          "desc": "高清、秒播不卡顿的综合型影视资源网站"
+        },
+        {
+          "url": "https://www.zhenlang.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ZLYS.webp",
+          "title": "真狼影视",
+          "desc": "免费观看全网影视剧资源的网站"
+        },
+        {
+          "url": "https://www.dyrsok.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dyrs.png",
+          "title": "电影人生",
+          "desc": "高清电影在线观看，支持下载"
+        },
+        {
+          "url": "https://www.novipnoad.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/nosp.png",
+          "title": "NO视频",
+          "desc": "海外热门剧集在线观看"
+        },
+        {
+          "url": "https://www.bttwo.me/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bt.png",
+          "title": "两个BT",
+          "desc": "极速秒播的综合型高清影"
+        },
+        {
+          "url": "https://hctd1.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hctd.png",
+          "title": "火车太堵",
+          "desc": "免费高清，资源全"
+        },
+        {
+          "url": "https://www.mtyy3.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mtyy.png",
+          "title": "麦田影院",
+          "desc": "高清播放快，少量有广告"
+        },
+        {
+          "url": "https://www.jigys.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jgys.png",
+          "title": "极光影视",
+          "desc": "登录看高清，无广告"
+        },
+        {
+          "url": "https://www.brovod.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xdys.png",
+          "title": "兄弟影视",
+          "desc": "高清、秒播，弹幕式影视网站"
+        }
+      ],
+      "tab-33": [
+        {
+          "url": "https://www.1lou.me/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/btzj.ico",
+          "title": "BT之家",
+          "desc": "国内老牌且资源丰富的BT分享站"
+        },
+        {
+          "url": "https://www.btbtla.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/btys.webp",
+          "title": "BT影视",
+          "desc": "提供4K、1080等多种资源的下载网站"
+        },
+        {
+          "url": "https://www.bdjuhe.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bdys.ico",
+          "title": "BD影视",
+          "desc": "支持迅雷、网盘下载的4K分享网站"
+        },
+        {
+          "url": "https://video.ainunu.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/nu.ico",
+          "title": "爱努努",
+          "desc": "分享各种主流网盘资源的老牌资源站点"
+        },
+        {
+          "url": "https://www.seedhub.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/SeedHub.webp",
+          "title": "SeedHub",
+          "desc": "专注分享优质影视资源的网站"
+        },
+        {
+          "url": "https://www.hdzu.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/gqz.webp",
+          "title": "高清族",
+          "desc": "提供4K、1080、720、标清等版本资源的高清影视下载网站"
+        },
+        {
+          "url": "https://yyets.click/search",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/rrys.webp",
+          "title": "人人影视",
+          "desc": "包含了人人影视资源的分享网站"
+        },
+        {
+          "url": "https://www.mjf2020.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mjf.webp",
+          "title": "美剧粉",
+          "desc": "专业的美剧、Netflix资源下载网站"
+        },
+        {
+          "url": "https://bt.mojiez.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mxzbt.webp",
+          "title": "摩羯座BT资源站",
+          "desc": "专注电影、电视剧资源的资源站"
+        },
+        {
+          "url": "https://www.cilixiong.org/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/clx.webp",
+          "title": "磁力熊",
+          "desc": "界面简洁清爽、小而美的高分影视资源下载网站"
+        },
+        {
+          "url": "https://www.ldysg.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ldysg.webp",
+          "title": "老电影时光",
+          "desc": "提供迅雷下载、主流网盘资源下载的网站"
+        },
+        {
+          "url": "https://www.uump4.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yymp4.webp",
+          "title": "悠悠MP4",
+          "desc": "主打迅雷下载的影视资源分享网站"
+        },
+        {
+          "url": "https://gaoyuanxia.cn/ying-shi/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/gyxz.webp",
+          "title": "高原下载",
+          "desc": "提供影片、电子书、游戏等资源的下载网站"
+        },
+        {
+          "url": "https://www.dygod.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dytt.webp",
+          "title": "电影天堂",
+          "desc": "专业的老牌迅雷下载网站"
+        },
+        {
+          "url": "https://www.btdx8.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/btdx.webp",
+          "title": "比特大雄",
+          "desc": "提供迅雷下载的影视种子分享网站"
+        }
+      ],
+      "tab-38": [
+        {
+          "url": "https://yinghezhinan.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yinghe.png",
+          "title": "硬核指南",
+          "desc": "免费且优质的影音娱乐网站"
+        },
+        {
+          "url": "http://www.549.tv/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yingshisenlin.png",
+          "title": "影视森林",
+          "desc": "综合影视导航"
+        },
+        {
+          "url": "https://cddys.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/cddys.png",
+          "title": "臭蛋蛋影视",
+          "desc": "专注优质影视站点收集"
+        },
+        {
+          "url": "https://anee.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/anyiysdh.png",
+          "title": "安逸影视导航",
+          "desc": "影视专业导航网站"
+        },
+        {
+          "url": "https://nuoin.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/nuoin.ico",
+          "title": "诺影导航",
+          "desc": "日韩电影、欧美电影等影视"
+        },
+        {
+          "url": "https://a.ysscj.site/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ysscj.png",
+          "title": "影视收藏夹",
+          "desc": "全网最全的影视资源"
+        },
+        {
+          "url": "https://www.klyingshi2.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/keleys.jpg",
+          "title": "可乐影视",
+          "desc": "收集整理了许多免费电影网"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-29",
+    "icon": "simple simple-youxi",
+    "title": "游戏",
+    "desc": "老机新游全都能挖到！",
+    "tabs": [
+      {
+        "id": "tab-30",
+        "name": "下载"
+      },
+      {
+        "id": "tab-31",
+        "name": "在线"
+      }
+    ],
+    "sites": {
+      "tab-30": [
+        {
+          "url": "https://www.gamer520.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Switch520.webp",
+          "title": "Switch520",
+          "desc": "更新频率很高的switch、pc、ps5、ps4、模拟器游戏下载网站"
+        },
+        {
+          "url": "https://www.xyg688.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xygfx.webp",
+          "title": "小妖怪分享",
+          "desc": "主打游戏免费分享的资源网站"
+        },
+        {
+          "url": "https://www.flysheep6.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/flysheep.webp",
+          "title": "flysheep",
+          "desc": "分享单机PC、VR、模拟器等等游戏的免费下载网站"
+        },
+        {
+          "url": "https://www.jidiyouxi.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jdyx.webp",
+          "title": "机地游戏",
+          "desc": "单机游戏、Switch游戏资源分享网站"
+        },
+        {
+          "url": "https://laojiku.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ljk.webp",
+          "title": "老机库",
+          "desc": "提供FC、PS、Wii、PSP等怀旧游戏资源的网站"
+        },
+        {
+          "url": "https://fcpic.nesbbs.com/game.html",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/fctk.webp",
+          "title": "FC图库",
+          "desc": "红白机(FC/NES)游戏资源下载的知名老站"
+        },
+        {
+          "url": "https://koysobackup.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/Koyso.webp",
+          "title": "Koyso",
+          "desc": "专注于单机游戏下载的资源网站"
+        },
+        {
+          "url": "https://dewuxian.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dewxyx.webp",
+          "title": "de吴线游戏",
+          "desc": "单机游戏资源免费下载网站"
+        },
+        {
+          "url": "https://www.yzyk.xyz/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xyzyk.webp",
+          "title": "小鱼资源库",
+          "desc": "分享PC游戏、模拟器游戏、手机游戏的单机游戏下载站"
+        },
+        {
+          "url": "https://steamzg.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xjzy.webp",
+          "title": "小叽资源",
+          "desc": "免费下载单机游戏的资源网站"
+        },
+        {
+          "url": "https://www.gameshare.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/gameshare.webp",
+          "title": "Game Share",
+          "desc": "以PC游戏、手机游戏下载为主的免费资源网站"
+        },
+        {
+          "url": "https://wq666.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wqdjyx.webp",
+          "title": "蛙趣单机游戏",
+          "desc": "分享单机游戏的免费资源网站"
+        },
+        {
+          "url": "https://xdgame.io/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xdgame.webp",
+          "title": "XDGAME",
+          "desc": "专注PC单机游戏资源的网站"
+        },
+        {
+          "url": "https://www.hajimigames.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hjmyx.webp",
+          "title": "哈基米游戏",
+          "desc": "单机游戏资源分享网站"
+        },
+        {
+          "url": "https://2468c.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/adb.png",
+          "title": "奥德彪计划",
+          "desc": "PS5、PS4、FC游戏、PC游戏修改器游戏资源下载站"
+        },
+        {
+          "url": "https://www.switchxiazai.com/index.html",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zyw.webp",
+          "title": "掌游网",
+          "desc": "Switch游戏下载站"
+        },
+        {
+          "url": "https://tujigame.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tjyx.webp",
+          "title": "兔叽游戏",
+          "desc": "单机游戏、Switch游戏资源下载网站"
+        },
+        {
+          "url": "https://lzlgo.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/lzlyx.webp",
+          "title": "梨子乐游戏",
+          "desc": "以免费PC游戏资源为夸克网盘下载网站"
+        },
+        {
+          "url": "https://www.518519.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/lzyx.webp",
+          "title": "乐玩游戏",
+          "desc": "单机游戏资源下载的网站"
+        },
+        {
+          "url": "https://www.vrxzb.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/vrxzb.webp",
+          "title": "VR下载吧",
+          "desc": "VR游戏和视频下载的网站"
+        }
+      ],
+      "tab-31": [
+        {
+          "url": "https://classicjoy.games/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/classicjoy.webp",
+          "title": "ClassicJoy Games",
+          "desc": "可在线畅玩各类经典游戏的网站"
+        },
+        {
+          "url": "https://oldswf.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/oldswf.webp",
+          "title": "oldswf",
+          "desc": "在线玩Flash小游戏的网站"
+        },
+        {
+          "url": "https://www.yikm.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yikm.webp",
+          "title": "yikm游戏",
+          "desc": "在线玩各类游戏的网站"
+        },
+        {
+          "url": "https://game.haiyong.site/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/haiyong.webp",
+          "title": "海拥游戏大全",
+          "desc": "fc、GBA、休闲网页游戏在线畅玩的网站"
+        },
+        {
+          "url": "https://flash.homes/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/flash.webp",
+          "title": "Flash保存计划",
+          "desc": "提供上万款Flash游戏资源的网站"
+        },
+        {
+          "url": "https://zaixianwan.app/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/lyxzxw.webp",
+          "title": "老游戏在线玩",
+          "desc": "提供数千种经典老游戏的网页版资源（支持键盘/手柄设置）的网站"
+        },
+        {
+          "url": "https://zh.y8.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/y8.webp",
+          "title": "Y8游戏",
+          "desc": "提供超9万款的线上游戏网站"
+        },
+        {
+          "url": "https://poki.com/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/poki.webp",
+          "title": "Poki小游戏",
+          "desc": "提供免费的在线小游戏的网站"
+        },
+        {
+          "url": "https://cartoongames.io/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/CartoonGames.webp",
+          "title": "CartoonGames",
+          "desc": "以经典卡通品牌主题为主的在线游戏网站"
+        },
+        {
+          "url": "https://www.emu666.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/emu66.webp",
+          "title": "Emu666",
+          "desc": "需登录，在线玩模拟器游戏的网站"
+        },
+        {
+          "url": "https://retrogamesnexus.com/zh",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/retrogamesnexus.png",
+          "title": "Retro Games Nexus",
+          "desc": "免费在线畅玩经典复古游戏"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-64",
+    "icon": "simple simple-yuedu",
+    "title": "书籍",
+    "desc": "别人给不了的浪漫，书里都有答案~",
+    "tabs": [
+      {
+        "id": "tab-65",
+        "name": "小说"
+      },
+      {
+        "id": "tab-66",
+        "name": "电子书"
+      }
+    ],
+    "sites": {
+      "tab-65": [
+        {
+          "url": "https://mianfei22.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zssq.webp",
+          "title": "找书神器",
+          "desc": "百万免费小说免费在线阅读的网站"
+        },
+        {
+          "url": "https://www.owlook.com.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/owllook.webp",
+          "title": "owllook",
+          "desc": "网络小说搜索引擎"
+        },
+        {
+          "url": "https://www.mfxs0.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bqg.webp",
+          "title": "笔趣阁",
+          "desc": "提供免费小说在线阅读的小说阅读网站"
+        },
+        {
+          "url": "https://www.xiaoshuo84.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xsbs.webp",
+          "title": "小说巴士",
+          "desc": "海量小说免费在线阅读的网站"
+        },
+        {
+          "url": "https://books.fishhawk.top",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qxsjfjqr.webp",
+          "title": "轻小说机翻机器人",
+          "desc": "支持多家轻小说平台内容的AI翻译"
+        },
+        {
+          "url": "https://www.huanmengacg.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hmqxs.png",
+          "title": "幻梦轻小说",
+          "desc": "免费日本动漫/SF轻小说在线阅读"
+        },
+        {
+          "url": "https://www.linovelib.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/blqxs.webp",
+          "title": "哔哩轻小说",
+          "desc": "提供全网轻小说免费在线阅读的网站"
+        },
+        {
+          "url": "https://mojimoon.github.io/wenku8/index.html",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/qxswk.png",
+          "title": "轻小说文库",
+          "desc": "专注轻小说资源的网站"
+        },
+        {
+          "url": "https://www.guihualianpian.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ghlp.webp",
+          "title": "鬼话连篇",
+          "desc": "分享鬼故事的网站"
+        },
+        {
+          "url": "https://502book.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/502book.webp",
+          "title": "502book",
+          "desc": "支持内容在线解析、阅读的小说搜索引擎"
+        },
+        {
+          "url": "https://www.txt80.cc/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bldzs.webp",
+          "title": "八零电子书",
+          "desc": "TXT小说下载网站"
+        },
+        {
+          "url": "https://www.10000txt.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wbxs.webp",
+          "title": "万本小说",
+          "desc": "提供校对版全本Txt小说下载的资源网站"
+        },
+        {
+          "url": "https://www.txtxiaoshuo.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/txtxsw.webp",
+          "title": "txt小说网",
+          "desc": "全本txt小说下载的网站"
+        },
+        {
+          "url": "https://onehu.xyz/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wbsys.webp",
+          "title": "我不是盐神",
+          "desc": "知乎盐选免费阅读网站"
+        },
+        {
+          "url": "https://www.yanxuan.org/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yx.webp",
+          "title": "盐选",
+          "desc": "提供知乎盐选文章免费阅读的网站"
+        }
+      ],
+      "tab-66": [
+        {
+          "url": "https://www.jiumodiary.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bjss.webp",
+          "title": "鸠摩搜索",
+          "desc": "电子书、文档搜索引擎"
+        },
+        {
+          "url": "https://www.shuge.org/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/sg.webp",
+          "title": "书格",
+          "desc": "自由开放的古籍数字图书馆"
+        },
+        {
+          "url": "https://www.huaijiushuku.top/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/hjsk.webp",
+          "title": "怀旧书库",
+          "desc": "epub电子书下载网站"
+        },
+        {
+          "url": "https://www.xiaolipan.com/index.html",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xlp.png",
+          "title": "小力盘",
+          "desc": "提供电子书下载的资源搜索平台"
+        },
+        {
+          "url": "https://www.dushupai.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dsp.webp",
+          "title": "读书派",
+          "desc": "提供EPUB、AZW3、MOBI、PDF等格式的免费电子书下载网站"
+        },
+        {
+          "url": "https://www.shidianguji.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/sdgj.webp",
+          "title": "识典古籍",
+          "desc": "古籍在线阅读的网站"
+        },
+        {
+          "url": "https://www.zhishikoo.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/sjzsk.webp",
+          "title": "书籍知识库",
+          "desc": "书籍、电子书分享的资源网站"
+        },
+        {
+          "url": "https://lunarora.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/lmc.webp",
+          "title": "鹿鸣川",
+          "desc": "高质量的电子书资源网站"
+        },
+        {
+          "url": "https://www.feiku6.com/index.html",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/fkwxw.webp",
+          "title": "飞库文学网",
+          "desc": "提供电子书籍在线阅读和下载的网站"
+        },
+        {
+          "url": "https://honeypdf.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dzszj.webp",
+          "title": "电子书之家",
+          "desc": "提供全网电子书、小说免费下载的电子书网站"
+        },
+        {
+          "url": "https://www.kepub.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/kywx.webp",
+          "title": "可阅文学网",
+          "desc": "提供在线阅读文学、诗歌、散文随笔等作品的网站"
+        },
+        {
+          "url": "https://www.mobitushu.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mbtsw.webp",
+          "title": "mobi图书网",
+          "desc": "专注分享mobi格式电子书的网站"
+        },
+        {
+          "url": "https://tstrs.me/search",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/SaltyLeosj.webp",
+          "title": "SaltyLeo书架",
+          "desc": "提供电子书、有声读物下载的网站"
+        },
+        {
+          "url": "https://www.yidanshu.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yds.webp",
+          "title": "一单书",
+          "desc": "分享优质书单并提供免费下载电子书的网站"
+        },
+        {
+          "url": "https://alltool.top/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jwdzs.webp",
+          "title": "金屋电子书",
+          "desc": "专注电子书资源的整理与分享"
+        }
+      ]
+    }
+  },
+  {
+    "id": "term-35",
+    "icon": "simple simple-he",
+    "title": "找资源",
+    "desc": "除了对象，其他资源都能找！",
+    "tabs": [
+      {
+        "id": "tab-59",
+        "name": "软件"
+      },
+      {
+        "id": "tab-68",
+        "name": "字体"
+      },
+      {
+        "id": "tab-34",
+        "name": "论坛"
+      },
+      {
+        "id": "tab-36",
+        "name": "导航"
+      },
+      {
+        "id": "tab-37",
+        "name": "内容分享"
+      }
+    ],
+    "sites": {
+      "tab-59": [
+        {
+          "url": "https://www.yxzhi.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yxzhi.png",
+          "title": "鸭先知",
+          "desc": "安卓、电脑、电视、插件等"
+        },
+        {
+          "url": "https://www.423down.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/423down.png",
+          "title": "423Down",
+          "desc": "电脑、安卓、操作系统"
+        },
+        {
+          "url": "https://www.ghxi.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ghbk.png",
+          "title": "果核剥壳",
+          "desc": "电脑、安卓、操作系统"
+        },
+        {
+          "url": "https://www.appinn.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xzrj.jpg",
+          "title": "小众软件",
+          "desc": "安卓、电脑、苹果、资讯"
+        },
+        {
+          "url": "https://www.iplaysoft.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ycy.png",
+          "title": "异次元",
+          "desc": "安卓、电脑、资讯等"
+        },
+        {
+          "url": "https://www.yxssp.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yxrjkj.png",
+          "title": "异星软件空间",
+          "desc": "安卓、电脑、资讯等"
+        },
+        {
+          "url": "https://www.ruancang.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/rc.png",
+          "title": "软仓",
+          "desc": "各种专业软件破解版"
+        },
+        {
+          "url": "https://www.mefcl.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mefcl.png",
+          "title": "mefcl’blog",
+          "desc": "安卓、电脑、操作系统"
+        },
+        {
+          "url": "https://www.fenxm.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/fxm.png",
+          "title": "分享迷",
+          "desc": "主更盒子软件，辅更安卓、电脑、操作系统"
+        },
+        {
+          "url": "https://www.ypojie.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ypj.png",
+          "title": "易破解",
+          "desc": "电脑、安卓、操作系统"
+        },
+        {
+          "url": "https://www.rjno1.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/rjn1.png",
+          "title": "软件No1",
+          "desc": "专注电脑绿色软件"
+        },
+        {
+          "url": "https://foxirj.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/foxirj.png",
+          "title": "佛系软件",
+          "desc": "电脑、安卓、苹果软件等"
+        },
+        {
+          "url": "https://www.puresys.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/puresys.png",
+          "title": "Puresys",
+          "desc": "电脑、操作系统、安卓等软件"
+        },
+        {
+          "url": "https://www.dayanzai.me/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dyzx.png",
+          "title": "大眼仔旭",
+          "desc": "电脑、安卓，专注开源软件"
+        },
+        {
+          "url": "http://www.th-sjy.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/thsjy.png",
+          "title": "th_sjy",
+          "desc": "电脑软件，专注于软件汉化"
+        }
+      ],
+      "tab-68": [
+        {
+          "url": "https://www.maoken.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/maoken.ico",
+          "title": "猫啃网",
+          "desc": "所有字体均支持免费商用"
+        },
+        {
+          "url": "https://ziyouziti.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zyzt.ico",
+          "title": "自由字体",
+          "desc": "提供免费可商用字体下载"
+        },
+        {
+          "url": "https://www.potatofield.cn/fontlibrary",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yyt.ico",
+          "title": "洋芋田",
+          "desc": "收录 140 种可商用的不同字体"
+        },
+        {
+          "url": "https://www.100font.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/100font.png",
+          "title": "100font",
+          "desc": "专注于免费商用字体的下载网站"
+        },
+        {
+          "url": "https://www.miao3.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/mszk.png",
+          "title": "喵闪字库",
+          "desc": "提供中文字体的在线预览和免费下载"
+        },
+        {
+          "url": "https://zh.fonts2u.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/2u.png",
+          "title": "Fonts2u",
+          "desc": "海外字体网站，收录了16广域万款字体"
+        },
+        {
+          "url": "https://www.iconfont.cn/fonts/index",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/albbzt.png",
+          "title": "iconfont",
+          "desc": "阿里巴巴官方图标字体网站"
+        },
+        {
+          "url": "https://zfont.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zzt.png",
+          "title": "找字体网",
+          "desc": "免费商用中文字体在线下载"
+        },
+        {
+          "url": "https://www.fonts.net.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zttx.png",
+          "title": "字体天下",
+          "desc": "提供字体的下载和在线预览"
+        },
+        {
+          "url": "https://font.icu/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/font.icu_.png",
+          "title": "Font.icu",
+          "desc": "免费在线下载字体"
+        }
+      ],
+      "tab-34": [
+        {
+          "url": "https://meta.appinn.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xzrjlt.png",
+          "title": "小众软件论坛",
+          "desc": "寻找应用、软件，各种奇葩功能"
+        },
+        {
+          "url": "https://v2ex.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/v2ex.png",
+          "title": "V2EX",
+          "desc": "程序员、设计师及有创意的人参与的社区"
+        },
+        {
+          "url": "https://www.chongbuluo.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/cbl.ico",
+          "title": "虫部落",
+          "desc": "知识、技术和经验分享平台"
+        },
+        {
+          "url": "https://www.dalao.net/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/dalao.png",
+          "title": "大佬论坛",
+          "desc": "服务器、域名、建站交流论坛"
+        },
+        {
+          "url": "https://www.nodeloc.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/NodeLoc.png",
+          "title": "NodeLoc",
+          "desc": "互联网相关资源交流社区"
+        },
+        {
+          "url": "https://www.nodeseek.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/nodeseek.png",
+          "title": "NodeSeek",
+          "desc": "为主机爱好者打造高品质社区"
+        },
+        {
+          "url": "https://www.52pojie.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/wapj.ico",
+          "title": "吾爱破解",
+          "desc": "软件破解逆知名论坛"
+        },
+        {
+          "url": "https://muchong.com/bbs/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/muchong.ico",
+          "title": "小木虫",
+          "desc": "中国最有影响力的学术站点之一"
+        },
+        {
+          "url": "https://linux.do/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/linux.do_.webp",
+          "title": "LINUX DO",
+          "desc": "人工智能，技术，生活经验等高质量论坛"
+        },
+        {
+          "url": "https://jike.info/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/jike.webp",
+          "title": "JIKE",
+          "desc": "优惠消息,福利活动,免费资源的和谐社区"
+        }
+      ],
+      "tab-36": [
+        {
+          "url": "https://tuostudy.upnb.top/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/tuoustudy.png",
+          "title": "图欧学习资源导航",
+          "desc": "丰富的学习资源"
+        },
+        {
+          "url": "https://www.plnav.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/miludaohang.png",
+          "title": "迷鹿导航",
+          "desc": "方便快捷实用的综合导航"
+        },
+        {
+          "url": "https://www.star8.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/star8.webp",
+          "title": "星书签导航",
+          "desc": "内容丰富的综合导航"
+        },
+        {
+          "url": "https://www.iiice.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xcyd.ico",
+          "title": "下次一定",
+          "desc": "专门为白嫖怪开发的宝藏资源收集网站"
+        },
+        {
+          "url": "https://www.a.cool/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/aku.ico",
+          "title": "阿酷导航",
+          "desc": "收集了各种优质网站"
+        },
+        {
+          "url": "http://yihaozhan.xyz/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xininn.ico",
+          "title": "壹号栈",
+          "desc": "导航、探索精选资源"
+        }
+      ],
+      "tab-37": [
+        {
+          "url": "https://axutongxue.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/axutonxue.ico",
+          "title": "阿虚同学的储物间",
+          "desc": "提供多种资源的网站"
+        },
+        {
+          "url": "https://zyscj.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/zyscj.ico",
+          "title": "资源收藏夹",
+          "desc": "资源合集页，很丰富"
+        },
+        {
+          "url": "https://rectg.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/telegrapm.webp",
+          "title": "高质量TG资源",
+          "desc": "5000+ 高质量TG群组、频道和机器人"
+        },
+        {
+          "url": "https://yunyinghui.feishu.cn/wiki/ZBOnwdpFciwS2bkl9TkcKlihnFg",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yuunying.png",
+          "title": "运营圆桌会",
+          "desc": "超全的运营知识库，覆盖多个平台"
+        },
+        {
+          "url": "https://zufang.ababtools.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/ababtools.png",
+          "title": "城市租房生存指南",
+          "desc": "省钱、安心、避坑"
+        },
+        {
+          "url": "https://yaxiaozu.ababtools.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/yxz.png",
+          "title": "鸭小租",
+          "desc": "助您轻松找到理想住所"
+        },
+        {
+          "url": "http://yihaozhan.xyz/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xininn.ico",
+          "title": "壹号栈",
+          "desc": "导航、探索精选资源"
+        },
+        {
+          "url": "https://haikuoshijie.cn/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xmh.ico",
+          "title": "小棉袄的百味人生",
+          "desc": "每天推荐优秀工具，网站，软件等"
+        },
+        {
+          "url": "https://iui.su/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/bsn.webp",
+          "title": "不死鸟",
+          "desc": "分享各种优质、有趣资源的网站"
+        },
+        {
+          "url": "https://xinquji.com/",
+          "icon": "https://www.kulayu.com/wp-content/uploads/2026/05/xqj.png",
+          "title": "新趣集",
+          "desc": "发现有趣的新产品社区"
+        }
+      ]
+    }
+  }
+]
